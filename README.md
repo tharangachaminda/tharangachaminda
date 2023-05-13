@@ -1,16 +1,31 @@
-### Hi there 👋
 
-<!--
-**tharangachaminda/tharangachaminda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Tharanga! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am a highly experienced full stack developer with over 10 years of expertise in web application development, specializing in PHP and JavaScript front-end development.
+
+In addition to my web development proficiency, I possess valuable experience in creating mobile apps using React Native, I have dabbled in Bluetooth Low Energy (BLE) applications, leveraging his expertise in C language and working with Nordic BLE chips.
+
+My passion for technology extends beyond traditional software development. I am an avid Data Science enthusiast, constantly exploring new algorithms, tools, and techniques to extract valuable insights from complex datasets.
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/tharangachaminda)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharangachaminda/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TharangaChami)
+
+
+## 🛠 Skills
+PHP, Javascript, HTML, CSS, ReacNative, VueJS, SQL, Python, Machine Learning, Deep Learning, AI
+
+
+## My Journey
+🏫 Graduated in 2009 - BSc @University Of Ruhuna, Sri Lanka - (Computer Science, Mathematics, Applied Mathematics)
+
+🏫 Post Graduate Deploma in IT @UCSC, Sri Lanka
+
+🖥️ In 2010 I started my career as a Software Developer
+
+🧠 I'm currently studing Data Science
+
+🎯 My next goal is to become a professional Data Scientist
