@@ -1,3 +1,6 @@
+<p>
+  <img src="https://github.com/tharangachaminda/tharangachaminda/blob/main/git_el.jpg" />
+</p>
 
 # Hi, I'm Tharanga! 👋
 
