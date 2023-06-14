@@ -1,5 +1,5 @@
 <p>
-  <img src="https://github.com/tharangachaminda/tharangachaminda/blob/main/git_el.jpg" />
+  <img src="https://github.com/tharangachaminda/tharangachaminda/blob/main/git_el2.jpg" />
 </p>
 
 # Hi, I'm Tharanga! 👋
