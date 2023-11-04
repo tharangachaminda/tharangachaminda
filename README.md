@@ -20,10 +20,10 @@ My passion for technology extends beyond traditional software development. I am 
 
 
 ## 🛠 Skills
-PHP, Javascript, HTML, CSS, ReacNative, VueJS, SQL, Python, Machine Learning, Deep Learning, AI
+Python, Machine Learning, Deep Learning, TensorFlow, AI, SQL, Javascript, HTML, CSS, ReacNative, VueJS
 <br/>
 <p>
-  <img src="https://skillicons.dev/icons?i=php,js,html,css,react,vue,mysql,python,ai" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,ai,js,html,css,react,vue,mysql" />
 </p>
 
 
