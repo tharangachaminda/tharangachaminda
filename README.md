@@ -13,7 +13,7 @@ In addition to my web development proficiency, I possess valuable experience in 
 My passion for technology extends beyond traditional software development. I am an avid Data Science enthusiast, constantly exploring new algorithms, tools, and techniques to extract valuable insights from complex datasets.
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/tharangachaminda)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://ec2-34-215-236-233.us-west-2.compute.amazonaws.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharangachaminda/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TharangaChami)
 [![kaggle](https://img.shields.io/badge/kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/tharanganandasena)
